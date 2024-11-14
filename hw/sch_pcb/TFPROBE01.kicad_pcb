@@ -1852,7 +1852,7 @@
 			(xy 0 0) (xy 14 0)
 		)
 		(height 2.921)
-		(gr_text "14 mm"
+		(gr_text "14"
 			(at 7 1.771 0)
 			(layer "Cmts.User")
 			(uuid "d13963cf-687e-4261-985e-299390312a2c")
@@ -1867,7 +1867,7 @@
 			(prefix "")
 			(suffix "")
 			(units 2)
-			(units_format 1)
+			(units_format 0)
 			(precision 4) suppress_zeroes)
 		(style
 			(thickness 0.15)

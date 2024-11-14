@@ -2254,9 +2254,9 @@
 		)
 		(uuid "f1b934b1-534c-485e-982a-e1ffef7fac2c")
 	)
-	(text "HALL EFFECT OMNIPOLAR SWITCH"
+	(text "Hall effect omnipolar magnetic switch"
 		(exclude_from_sim no)
-		(at 107.95 48.26 0)
+		(at 134.62 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2267,7 +2267,7 @@
 	)
 	(text "Reflective Optical Sensor"
 		(exclude_from_sim no)
-		(at 106.68 95.25 0)
+		(at 124.46 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
