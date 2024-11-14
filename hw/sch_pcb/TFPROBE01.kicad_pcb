@@ -1756,7 +1756,7 @@
 			(xy 14 0) (xy 14 -3.048)
 		)
 		(height 3.89)
-		(gr_text "3,048"
+		(gr_text "3.048"
 			(at 18 2.5 90)
 			(layer "Cmts.User")
 			(uuid "13bd75d2-c0f6-4713-bd86-1e9d144c22e5")
@@ -1903,7 +1903,7 @@
 			(precision 4) suppress_zeroes)
 		(style
 			(thickness 0.15)
-			(arrow_length 1.27)
+			(arrow_length 1)
 			(text_position_mode 0)
 			(extension_height 0.58642)
 			(extension_offset 0.5) keep_text_aligned)
@@ -1916,7 +1916,7 @@
 			(xy 14 -10) (xy 14 -7.048)
 		)
 		(height -2.59)
-		(gr_text "2,952"
+		(gr_text "2.952"
 			(at 16.5 -12.5 90)
 			(layer "Cmts.User")
 			(uuid "e442bfb5-9b34-498e-8321-0d6b4fdb4862")
